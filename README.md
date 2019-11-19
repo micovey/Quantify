@@ -1,7 +1,7 @@
 # Quantify
 Quantify
 </br>
-注意！下载完的文件夹一定要命名为Quantify，不要为Quantify-master等等
+注意！下载完的文件夹一定要命名为Quantify，不要为Quantify-master等等</br>
 数据来源：baostock：http://baostock.com/</br>
 默认存储路径：D盘</br>
 默认将daily2019.csv存在D:\Quantify\daily</br>
