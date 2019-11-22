@@ -12,5 +12,6 @@ factor.py :下载三因子所需数据，但日期需要自行更改，一般需
 factor_cal.py:将股票进行分组，以便后续计算因子</br>
 return_cal.py：计算对数收益率</br>
 factor_merge.py: 收益率、因子等将匹配</br>
-alpha.py： 计算滚动α
+alpha.py： 计算滚动α</br>
+pre_alpha.py： 计算滚动预测α，选出每日最合适的股票（<=2个)</br>
 未完待续……</br>
