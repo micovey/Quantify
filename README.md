@@ -1,4 +1,4 @@
-# 数据及代码说明
+### 数据及代码说明
 </br>
 注意！下载完的文件夹一定要命名为Quantify，不要为Quantify-master等等</br>
 数据来源：baostock：http://baostock.com/</br>
@@ -12,4 +12,5 @@ factor.py :下载三因子所需数据，但日期需要自行更改，一般需
 factor_cal.py:将股票进行分组，以便后续计算因子</br>
 return_cal.py：计算对数收益率</br>
 factor_merge.py: 收益率、因子等将匹配</br>
+alpha.py： 计算滚动α
 未完待续……</br>
