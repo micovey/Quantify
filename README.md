@@ -17,4 +17,7 @@ pre_alpha.py： 计算滚动预测α，选出每日最合适的股票（<=2个)<
 未完待续……</br>
 
 </br>
-stochastic.py 模拟随机游走、布朗运动，计算Hurst指数
+stochastic.py 模拟随机游走、布朗运动，计算Hurst指数</br>
+
+</br>
+dongfang.py 爬取东方财富高频数据
